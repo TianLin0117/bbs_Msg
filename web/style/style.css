@@ -1,0 +1,36 @@
+BODY {
+	FONT-SIZE: 12px;
+}
+A {
+	COLOR: #2f5fa1; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+TEXTAREA {
+	BORDER-RIGHT: #a6cbe7 1px solid; BORDER-TOP: #a6cbe7 1px solid; BORDER-LEFT: #a6cbe7 1px solid; BORDER-BOTTOM: #a6cbe7 1px solid
+}
+.gray {
+	COLOR: #818a89
+}
+.btn {
+	BORDER-RIGHT: #2C59AA 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #2C59AA 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#C3DAF5); BORDER-LEFT: #2C59AA 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #2C59AA 1px solid 
+}
+.input {
+	BORDER-RIGHT: #a6cbe7 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #a6cbe7 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 1em; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: middle; BORDER-LEFT: #a6cbe7 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #a6cbe7 1px solid
+}
+.t {
+	BORDER-RIGHT: #a6cbe7 1px solid; BORDER-TOP: #a6cbe7 1px solid; MARGIN: 0px auto 8px; BORDER-LEFT: #a6cbe7 1px solid; BORDER-BOTTOM: #a6cbe7 1px solid
+}
+.t1 {
+	BORDER-RIGHT: #8D9392 1px solid; BORDER-TOP: #8D9392 0px solid; MARGIN: 0px auto 8px; BORDER-LEFT: #8D9392 0px solid; BORDER-BOTTOM: #59605F 1px solid;width:500px;background-color:#EAEEF0
+}
+.t2 {
+	BORDER-RIGHT: #818a89 1px solid; BORDER-TOP: #a6cbe7 0px solid; MARGIN: 0px auto 4px; BORDER-LEFT: #a6cbe7 0px solid; BORDER-BOTTOM: #818a89 1px solid; background-color:#EAEEF0
+}
+.login {
+	BACKGROUND-COLOR:#a6cbe7;
+	border-style:double;border-width:3px;
+	width:300px;
+	position:relative; top:100px
+}

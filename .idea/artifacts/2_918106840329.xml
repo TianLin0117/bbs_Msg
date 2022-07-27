@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="上机2_918106840329">
+    <output-path>$PROJECT_DIR$/out/artifacts/2_918106840329</output-path>
+    <root id="archive" name="上机2_918106840329.war">
+      <element id="javaee-facet-resources" facet="bbs_Meg1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bbs_Meg1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
